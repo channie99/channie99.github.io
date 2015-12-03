@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="styles.css" />
+</head>
+  <body>
+
+<h1 >Escape Room</h1>
+<p>There is only one codelock in the room, and that's the door, but there are 6 numbers necessary to open it, so you can't use that code. There are two things you can do:</p>
+
+<ul class="iioptions">
+	<li><a href="question1.html">Start over from question 1</a></li>
+	<li class="active"><a href="close.html">Wait till the door opens after an hour</a></li>
+
+</ul>
+
+</body>
+</html>
