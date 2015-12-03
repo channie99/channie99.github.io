@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="styles.css" />
+</head>
+  <body>
+
+<h1 >Escape Room</h1>
+<p>You walk around and see many things in the room, but nothing really usable, everything can be usefull to escape. You are back to the start. What do you do?</p>
+
+
+<ul class="iioptions">
+	<li><a href="question4.html">You sit down and wait for the first hint.</a></li>
+	<li class="active"><a href="question3.html">You walk a bit around in the hope you find something and wait for the first hint.</a></li>
+</ul>
+
+</body>
+</html>
