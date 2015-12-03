@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="styles.css" />
+</head>
+  <body>
+
+<h1 >Escape Room</h1>
+<p> You go to the safe and try if the key fits, and it does. Inside there is a paper that sais "13 januari 1916" and a paper that has the letters of the alphabet with the numbers 1 to 26 underneeth
+</p>
+
+<ul class="iiioptions">
+	<li><a href="question14.html">13/1/16 when you link them to the alfabet it makes the word MAP</a></li>
+	<li><a href="question10.html">1/13/16 when you linkt them to the alfabet it makes the word AMP</a></li>
+	<li><a href="question2.html">It's a date back in time, you go searching for something old in the room</a></li>
+</ul>
+
+</body>
+</html>
