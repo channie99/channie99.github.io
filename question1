@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="styles.css" />
+</head>
+  <body>
+
+<h1 >Escape Room</h1>
+<div class="transbox">
+<p>The door closes behind you, the clock counts down and the game has begun! But where to start? </p>
+</div>
+<ul class="iiioptions">
+	<li><a href="question2.html">You walk around the room and search for usable stuff.</a></li>
+	<li><a href="question4.html">You sit down and wait for the first hint.</a></li>
+	<li><a href="question12.html">You scare the shit out of your friend and he  gets mad.</a></li>
+</ul>
+
+</body>
+</html>
