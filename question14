@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="styles.css" />
+</head>
+ <body>
+
+<h1 >Escape Room</h1>
+<p> On the other side of the room are file maps, they look like patient records with names on them, you just have to find the right one</p>
+
+<ul class="iiioptions">
+	<li><a href="open.html">the right file is the file of Mister Smith.</a></li>
+	<li class="active"><a href="question9.html">The right file is the file of Mister Simon</a></li>
+	<li><a href="question5.html">You don't know the right file, so you leave the files alone and walk around the room.</a></li>
+</ul>
+
+</body>
+</html>
