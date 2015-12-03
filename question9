@@ -6,7 +6,8 @@
   <body>
 
 <h1 >Escape Room</h1>
-<p>You can't do anything with these letters, so you're stuck. There are two things you can do:</p>
+<p>The file sais nothing usefull, so you're stuck. There are two things you can do:
+</p>
 
 <ul class="iioptions">
 	<li><a href="question1.html">Start over from question 1</a></li>
