@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="styles.css" />
+</head>
+  <body>
+
+<h1 >Escape Room</h1>
+<p>You find the computers interesting and try if you can start it up, the screen says: "Insert 3 coded password to unlock" What is the password?</p>
+
+<ul class="iiiioptions">
+	<li><a href="question6.html">937</a></li>
+	<li class="active"><a href="question6.html">890</a></li>
+	<li><a href="question7.html">657</a></li>
+	<li><a href="question6.html">532</a></li>
+</ul>
+
+</body>
+</html>
