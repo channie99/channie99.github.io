@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="styles.css" />
+</head>
+  <body>
+
+<h1 >Escape Room</h1>
+<p>Your friend walks towards the skeleton. What he didn't notice is that he stepped on a button with his feet, the eyes open and there's a key inside
+</p>
+
+<ul class="iiioptions">
+	<li><a href="question5.html">You get the key and walk around the room towards the computers</a></li>
+	<li class="active"><a href="question11.html">You don't know what to do with the key so you leave it</a></li>
+	<li><a href="question13.html">A safe needs a key, it might fit</a></li>
+</ul>
+
+</body>
+</html>
