@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="styles.css" />
+</head>
+  <body>
+
+<h1 >Escape Room</h1>
+<p>After a few minutes the hint indeed showed up, it says: "You have no view on the matter." What can this mean?
+</p>
+
+<ul class="iioptions">
+	<li><a href="question12.html">The skeleton in the room has holes for the eyes, maybe that means something?</a></li>
+	<li class="active"><a href="question2.html">It sais nothing to you so you just start searching again.</a></li>
+</ul>
+
+</body>
+</html>
