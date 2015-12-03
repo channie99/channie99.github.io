@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="styles.css" />
+</head>
+  <body>
+
+<h1 >Escape Room</h1>
+<p>Good job! The computer unlocks and says: "Remember this good, Mister Smith knows everything."</p>
+
+<ul class="iioptions">
+	<li><a href="question12.html">There is only one (sort of) person in the room, besides you and your friend, and that's the skeleton, maybe that's Mister Smith</a></li>
+	<li class="active"><a href="question14.html">A name is on a file, so you go to the files that are in the room</a></li>
+
+</ul>
+
+</body>
+</html>
