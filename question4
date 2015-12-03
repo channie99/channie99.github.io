@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="styles.css" />
+</head>
+  <body>
+
+<h1 >Escape Room</h1>
+<p>The chair you are going to sit on is foldable, but you didn't notice. When you sit the chair folds itself up, it scares you, but your friend sees a code under the chair. The code is 657
+</p>
+
+<ul class="iiioptions">
+	<li><a href="question8.html">You write down the code and look for a codelock somewhere in the room</a></li>
+	<li class="active"><a href="question11.html">You think it isn't important and leave it.</a></li>
+	<li><a href="question5.html">You write down the code and keep on searching</a></li>
+</ul>
+
+</body>
+</html>
