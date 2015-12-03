@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="styles.css" />
+</head>
+  <body>
+
+<h1 >Escape Room</h1>
+<p>WRONG! the computer doesn't unlock</p>
+
+<ul class="iioptions">
+	<li><a href="question5.html">Go back to the passwordcodes</a></li>
+	<li class="active"><a href="question4.html">You're lost and wait for a hint
+</a></li>
+
+</ul>
+
+</body>
+</html>
